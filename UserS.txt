@@ -3,3 +3,5 @@ user stories
 i rohit saka the new user
 
 user is rohit saka
+
+input 1 and input 2
